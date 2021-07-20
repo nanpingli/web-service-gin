@@ -9,3 +9,4 @@ albums	main.go	/^var albums = []album{$/;"	v
 getAlbums	main.go	/^func getAlbums(c *gin.Context) {$/;"	f
 main	main.go	/^func main() {$/;"	f
 main	main.go	/^package main$/;"	p
+postAlbums	main.go	/^func postAlbums(c *gin.Context) {$/;"	f
